@@ -18,14 +18,14 @@
 - 😄 Pronouns: He/Him
 
 ## Contact:
-<div align="left" target="blank">
+<div align="left" target="_blank">
 <a href="https://">
 <img src="https://img.shields.io/badge/check%20out%20my%20Portfolio-042549?style=for-the-badge&logo=moleculer&logoColor=white" alt="portfolio" />
 </a>
-<a href="https://www.linkedin.com/in/elchinnasirov/" target="blank">
+<a href="https://www.linkedin.com/in/elchinnasirov/" target="_blank">
 <img src="https://img.shields.io/badge/visit%20my%20Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
 </a>
-<a href="mailto:nasirov.elchin@gmail.com" target="blank">
+<a href="mailto:nasirov.elchin@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/email%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" />
 </a>
 </div>
@@ -33,7 +33,7 @@
 <!-- Unused LinkedIn logo -->
 <!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/elchinnasirov/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="elchinnasirov" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/elchinnasirov/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="elchinnasirov" height="30" width="40" /></a>
 </p> -->
 
 <!-- Unused Resume goes here -->
