@@ -2,7 +2,7 @@
 
 <h3 align="center">A passionate Full Stack Developer</h3>
 
-### About:
+## About:
 - 🔭 I’m currently working on **side projects and portfolio**
 
 - 🌱 I’m currently learning **Advanced JavaScript, Advanced React, Redux, Swift**
@@ -43,7 +43,7 @@
 <!-- Skill Badges -->
 ## Languages and Tools:
 
-## Front End Skills:
+### Front End Skills:
 ![HTML](https://img.shields.io/badge/HTML-2E3440?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/CSS-2E3440?style=for-the-badge&logo=css3)
 ![JavaScript](https://img.shields.io/badge/JavaScript-2E3440?style=for-the-badge&logo=javascript)
@@ -54,16 +54,16 @@
 ![Styled-Components](https://img.shields.io/badge/Styled%20Components-2E3440?style=for-the-badge&logo=styled-components)
 ![Bootstrap](https://img.shields.io/badge/Botstrap-2E3440?style=for-the-badge&logo=bootstrap)
 
-## Back End Skills:
+### Back End Skills:
 ![Node](https://img.shields.io/badge/Node-2E3440?style=for-the-badge&logo=node.js)
 ![Python](https://img.shields.io/badge/Python-2E3440?style=for-the-badge&logo=python)
 ![SQLite](https://img.shields.io/badge/SQLite-2E3440?style=for-the-badge&logo=sqlite)
 ![Express](https://img.shields.io/badge/Express-2E3440?style=for-the-badge&logo=express)
 
-## IOS Development Skills:
+### IOS Development Skills:
 ![Swift](https://img.shields.io/badge/Swift-2E3440?style=for-the-badge&logo=swift)
 
-## Other Skills:
+### Other Skills:
 ![AWS](https://img.shields.io/badge/AWS-2E3440?style=for-the-badge&logo=aws)
 ![Github](https://img.shields.io/badge/GitHub-2E3440?style=for-the-badge&logo=github)
 ![Git](https://img.shields.io/badge/git-2E3440?style=for-the-badge&logo=git)
