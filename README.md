@@ -18,8 +18,8 @@
 - 😄 Pronouns: He/Him
 
 ## Contact:
-<div align="left" target="_blank">
-<a href="https://">
+<div align="left">
+<a href="https://" target="_blank">
 <img src="https://img.shields.io/badge/check%20out%20my%20Portfolio-042549?style=for-the-badge&logo=moleculer&logoColor=white" alt="portfolio" />
 </a>
 <a href="https://www.linkedin.com/in/elchinnasirov/" target="_blank">
