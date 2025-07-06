@@ -11,7 +11,7 @@
 
 <!-- - 👨‍💻 All of my projects are available at [portfolio website]() -->
 
-- 💬 Ask me about **React, Redux, JavaScript, Design, Front End, Back End,**
+- 💬 Ask me about **React, Redux, JavaScript, Design, Front End, Back End**
 
 <!-- - 📫 How to reach me **nasirov.elchin@gmail.com** or [**LinkedIn**](https://www.linkedin.com/in/elchinnasirov/) -->
 
