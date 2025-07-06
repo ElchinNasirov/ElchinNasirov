@@ -5,9 +5,9 @@
 ## About:
 - 🔭 I’m currently working on **side projects and portfolio**
 
-- 🌱 I’m currently learning **Advanced JavaScript, Advanced React, Redux, Swift**
+- 🌱 I’m currently learning **Advanced JavaScript, Advanced React, Redux, Next.js**
 
-- 👯 I’m looking to collaborate on **anything!**
+- 👨‍💻👨‍💻 I’m looking to collaborate on **anything!**
 
 <!-- - 👨‍💻 All of my projects are available at [portfolio website]() -->
 
@@ -15,7 +15,6 @@
 
 <!-- - 📫 How to reach me **nasirov.elchin@gmail.com** or [**LinkedIn**](https://www.linkedin.com/in/elchinnasirov/) -->
 
-- 😄 Pronouns: He/Him
 
 ## Contact:
 <div align="left">
